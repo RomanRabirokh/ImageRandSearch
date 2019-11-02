@@ -31,7 +31,7 @@ FILE_LOGS_ERRORS file for errors
 
 ### Настройки
 
-### Файл env
+#### Файл env
 
 **GOOGLE_API_KEY** специальный ключ, для возможности пользоваться поиском google image
 
