@@ -1,0 +1,15 @@
+{
+    "name": "root/src",
+    "authors": [
+        {
+            "name": "Roman Rabirokh",
+            "email": "romanrabirokh@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "": "app/"
+      }
+    }
+}
